@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace LegacyProj.Tests
 {
-    [TestFixture()]
     public class MathTests
     {
         [Test()]
