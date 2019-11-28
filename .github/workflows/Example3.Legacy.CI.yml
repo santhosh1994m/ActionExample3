@@ -1,4 +1,4 @@
-name: Example3.Legacy.CI
+name: Example3.CI
 
 on: [push]
  
